@@ -1,86 +1,76 @@
-<div align="right">
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=TheRayhan009.TheRayhan009">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=TheRayhan009.TheRayhan009" alt="Visitor Badge" style="padding: 5px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-    </a>
-</div>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20168
+Fork on GitHub
+6112
 
+back to edit
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TheRayhan!;" />
-</h1>
+copy-markdown
 
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm TheRayhan009</h1>
 <h3 align="center">A passionate competitive programmer and software developer from Feni,Bangladesh.</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therayhan009&label=Profile%20views&color=0e75b6&style=flat" alt="therayhan009" /> </p>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Student Management System**
- 
- 🌱 I’m currently learning **Django**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therayhan009" alt="therayhan009" /></a> </p>
 
-💬 Contact With Me **Facebook : TheRayhan PY**
+- 🔭 I’m currently working on **Student Management System**
 
-⚡ Fun fact **I am a Harry Potter Fan**
+- 🌱 I’m currently learning **Django**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.rayhanthestorymaker@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="#">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- 💬 Contact With Me **Facebook : TheRayhan PY**
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql,flask" /><br>
-</div>
+- 📫 How to reach me **rayhanthestorymaker@gmail.com**
 
-<br/>
-<hr/>
+- ⚡ Fun fact **I am a Harry Potter Fan**
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://r-com.onrender.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://r-com.onrender.com/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070570397043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070570397043" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/therayhan009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/therayhan009" height="30" width="40" /></a>
+</p>
 
-<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=100" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://r-com.onrender.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://r-com.onrender.com/" /></a></p><br><br>
 
-<br/><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therayhan009&show_icons=true&locale=en&layout=compact" alt="therayhan009" /></p>
 
-<hr/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therayhan009&show_icons=true&locale=en" alt="therayhan009" /></p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therayhan009&" alt="therayhan009" /></p>
 
-<div align="center">
-    <a href="https://r-com.onrender.com/" target="_blank">
-        <img src="https://img.shields.io/badge/More_about_me-blue?style=for-the-badge" alt="More about me" />
-    </a>
-</div>
-
-
-</div>
-
-<br/>
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
