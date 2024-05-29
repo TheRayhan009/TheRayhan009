@@ -70,27 +70,8 @@
 <br/>
 
 <div align="center">
-    <style>
-    .blue-button {
-        display: inline-block;
-        padding: 10px 20px;
-        font-size: 16px;
-        color: white;
-        background-color: blue;
-        text-align: center;
-        text-decoration: none;
-        border-radius: 5px;
-        border: none;
-        cursor: pointer;
-        transition: background-color 0.3s;
-    }
-
-    .blue-button:hover {
-        background-color: darkblue;
-    }
-    </style>
-    <a href='https://r-com.onrender.com/' target='_blank' class='blue-button'>
-        More about me.
+    <a href="https://r-com.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/More_about_me-blue?style=for-the-badge" alt="More about me" />
     </a>
 </div>
 
