@@ -1,4 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheRayhan009.TheRayhan009" />
+<div align="right">
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=TheRayhan009.TheRayhan009">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=TheRayhan009.TheRayhan009" alt="Visitor Badge" style="padding: 5px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
+    </a>
+</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TheRayhan!;" />
