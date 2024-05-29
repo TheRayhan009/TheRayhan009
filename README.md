@@ -70,10 +70,30 @@
 <br/>
 
 <div align="center">
-<a href='https://r-com.onrender.com/' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    <style>
+.blue-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.blue-button:hover {
+    background-color: darkblue;
+}
+</style>
+<a href='https://r-com.onrender.com/' target='_blank' class='blue-button'>
     More about me.
 </a>
+
+
 </div>
 
 <br/>
