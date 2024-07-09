@@ -34,10 +34,10 @@
 <br clear="left" />
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therayhan009&show_icons=true&locale=en&layout=compact" alt="therayhan009" style="width: 45%; min-width: 300px; margin: 10px; background-color: black;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=therayhan009&show_icons=true&locale=en" alt="therayhan009" style="width: 60%; min-width: 300px; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therayhan009&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="therayhan009" style="width: 45%; min-width: 300px; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=therayhan009&show_icons=true&locale=en&bg_color=000000" alt="therayhan009" style="width: 60%; min-width: 300px; margin: 10px;" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=therayhan009&" alt="therayhan009" style="width: 70%; max-width: 600px; margin: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=therayhan009&bg_color=000000" alt="therayhan009" style="width: 70%; max-width: 600px; margin: 10px;" />
 </div>
