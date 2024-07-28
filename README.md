@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/450430753_514290010933341_1729985352320255303_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=twKhl-k6v0AQ7kNvgH9SZRt&_nc_ht=scontent.fcgp27-1.fna&oh=00_AYArTdLoePbY3NIFZFfexSwgU1FBEGSoU8GWCxlvHQqTvg&oe=669311DE"  />
+<img align="right" height="200" src="/l1.jpg"  />
 
 ###
 
