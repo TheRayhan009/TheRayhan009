@@ -72,7 +72,7 @@
 
 ###
 
-<img align="left" height="200" src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/449300421_507868691575473_2378528236109794669_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wsQ85WVZxxwQ7kNvgEENNN3&_nc_ht=scontent.fcgp27-1.fna&oh=00_AYBFXC8jLR7w9O54eUBk2zEOPDwAqpX_jBRqydm8yboZ0g&oe=66930147"  />
+<img align="left" height="200" src="/p2.jpg"  />
 
 ###
 
@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/429570286_437998381895838_5324296667211192962_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=RUGuw4syyboQ7kNvgG042Hu&_nc_ht=scontent.fcgp27-1.fna&oh=00_AYAxzSmCayDgRh2MWvQ7EwqS6xx9-cr55mrDGdvxROC_Dw&oe=6692E722"  />
+<img align="left" height="200" src="/p1.jpg"  />
 
 ###
 
