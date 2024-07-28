@@ -72,7 +72,7 @@
 
 ###
 
-<img align="left" height="200" src="/p2.jpg"  />
+<img align="left" height="200" margin-bottom="20px" src="/p2.jpg"  />
 
 ###
 
