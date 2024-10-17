@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [To-Do-List](https://github.com/TheRayhan009/To-Do-List-Application-by-rayhan-in-django)
+- 🔭 I’m currently working on [bro-s-book-Django](https://github.com/TheRayhan009/bro-s-book-Django)
 
 - 🌱 I’m currently learning **Data structure and Algorithm , JQuery ,Ajax JS.**
 
-- 🤝 I’m looking for help with [To-Do-List](https://github.com/TheRayhan009/To-Do-List-Application-by-rayhan-in-django)
+- 🤝 I’m looking for help with [bro-s-book-Django](https://github.com/TheRayhan009/bro-s-book-Django)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheRayhan009](https://github.com/TheRayhan009)
 
