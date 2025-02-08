@@ -1,9 +1,10 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=TheRayhan009&&style=flat-square)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therayhan009&show_icons=true&locale=en&layout=compact" alt="therayhan009" /></p><br><br><br><br><br><br><br>
 
-
+<div align="center">
+<img src="https://scontent.fcgp38-1.fna.fbcdn.net/v/t39.30808-6/472056254_630164002679274_7664530347782363082_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dxVfn-555CEQ7kNvgGzmr6J&_nc_zt=23&_nc_ht=scontent.fcgp38-1.fna&_nc_gid=ATBhv2GrtFneEb3Wje7q8-t&oh=00_AYDbhZTmI4d_YH46BLGLv--9HIuvpCllyK-_XJpPgvzorQ&oe=67A0FF4F" align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">🚀 Welcome to Rayhan's GitHub! | 🎓 Class 10 Science Student | 💡 Passionate About Coding & Innovation | 🎮 Gaming Enthusiast | 📚 Tech Explorer</div>  
